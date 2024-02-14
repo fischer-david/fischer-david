@@ -4,7 +4,8 @@
 <a href="https://java.com"> <img alt="Java" src="https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=cd5b45"> </a>
 <a href="https://www.w3.org"> <img alt="HTML" src="https://img.shields.io/badge/-HTML-000?&logo=HTML5"> </a>
 <a href="https://github.com/PowerShell/PowerShell"> <img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-000?&logo=PowerShell"> </a>
-<a href="https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2022"> <img alt="C#" src="https://img.shields.io/badge/-C%23-000?&logo=c-sharp&logoColor=lime"> </a>
+<a href="https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2022"> <img alt="C#" src="https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=lime"> </a>
+<a href="https://dotnet.microsoft.com/"> <img alt=".NET" src="https://img.shields.io/badge/-.NET-000?&logo=dotnet&logoColor=purple"> </a>
 <a href="https://www.javascript.com"> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript"> </a>
 <a href="https://angular.io"> <img alt="Angular" src="https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=darkred"> </a>
 <a href="https://www.typescriptlang.org"> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-000?&logo=typescript"> </a>
