@@ -25,8 +25,9 @@
 <a href="https://azure.com"> <img alt="Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-000?&logo=MicrosoftAzure&logoColor=blue"> </a>
 
 ### 👨‍🎓 Currently learning
+<a href="https://www.nginx.com"> <img alt="Nginx" src="https://img.shields.io/badge/-Proxmox-000?&logo=Proxmox"> </a>
+<a href="https://www.vmware.com"> <img alt="VMWare" src="https://img.shields.io/badge/-VMWare-000?&logo=vmware"> </a>
 <a href="https://www.docker.com"> <img alt="Docker" src="https://img.shields.io/badge/-Docker-000?&logo=Docker"> </a>
 <a href="https://kubernetes.io/de/"> <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes"> </a>
-<a href="https://www.vmware.com"> <img alt="VMWare" src="https://img.shields.io/badge/-VMWare-000?&logo=vmware"> </a>
 <a href="https://tailwindcss.com"> <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwind-css"> </a>
 <a href="https://www.rust-lang.com"> <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?&logo=rust"> </a>
